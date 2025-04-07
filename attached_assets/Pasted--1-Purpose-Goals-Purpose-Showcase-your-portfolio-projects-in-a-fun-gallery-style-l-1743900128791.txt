@@ -1,0 +1,39 @@
+## 1. **Purpose & Goals**
+
+- **Purpose:** Showcase your portfolio projects in a fun, gallery-style layout on mobile.
+- **Primary Goal:** Let visitors view a “wall” of framed images representing different projects and tap on any frame to open the live website.
+- **Secondary Goal:** Provide a polished, realistic look that simulates an art gallery wall (with frames and shadows).
+
+---
+
+## 2. **Key Features**
+
+1. **Mobile-First Design**
+    - Page is primarily optimized for mobile screens (e.g., iPhone or Android).
+    - Simple layout that fits neatly on smaller viewports.
+    - The layout is vertically scrollable so users can view more than the initial set of frames/projects.
+2. **Textured Background**
+    - The background should resemble a real wall (e.g., subtle plaster or paper texture).
+    - Neutral color scheme (beige, off-white) so it doesn’t distract from the framed images.
+3. **Realistic Frames**
+    - Each project preview is placed inside a distinct, realistic-looking frame (e.g., wood, gold, black, etc.).
+    - Frames have **subtle shadows** to enhance realism and create depth.
+    - Different frame shapes/sizes so it looks like an eclectic gallery wall rather than a uniform grid.
+4. **Tappable Frames**
+    - Tapping on a framed preview opens the live website in a new browser tab (or window).
+    - **No hover effects** are needed for mobile, but you can include a subtle on-tap effect (like a quick highlight or slight scale) for user feedback.
+5. **Header/Text**
+    - A short, centered headline at the top, e.g., **“My Work”**.
+    - Simple, clean font (like a sans-serif) that complements the overall design.
+
+---
+
+## 3. **User Experience Flow**
+
+1. **User opens page** on their mobile device.
+2. They see a heading at the top (e.g., “My Work”).
+3. Beneath the heading, they see **four (or more) frames** arranged in a visually pleasing way on a textured background.
+4. **Scrolling Through Projects: t**he user can scroll vertically to see more frames/projects beyond the initial view.
+5. Each frame contains a **thumbnail** or **screenshot** of a website project.
+6. The user **taps on a frame** → A new tab (or window) opens, loading that website’s live page.
+7. The user can return to the gallery at any time to tap other frames.
